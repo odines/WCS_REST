@@ -1,0 +1,224 @@
+{
+  "schemaLocation": "http://www.fatwire.com/schema/rest/1.0 http://192.168.1.39:7003/cs/schema/rest-api.xsd",
+  "id": "AHSArticle:1460376624353",
+  "name": "10 Fabulous Kitchens Newest",
+  "createdby": "fwadmin",
+  "createddate": "2016-07-12T13:27:57.996Z",
+  "description": "",
+  "publist": [
+	"AHS"
+  ],
+  "status": "ED",
+  "subtype": "ArticleDefinition",
+  "updatedby": "fwadmin",
+  "updateddate": "2017-01-30T06:12:30.215Z",
+  "attribute": [
+	{
+	  "name": "startdate",
+	  "data": null
+	},
+	{
+	  "name": "enddate",
+	  "data": null
+	},
+	{
+	  "name": "filename",
+	  "data": {
+		"stringValue": ""
+	  }
+	},
+	{
+	  "name": "path",
+	  "data": {
+		"stringValue": ""
+	  }
+	},
+	{
+	  "name": "template",
+	  "data": {
+		"stringValue": "ArticleTemplate"
+	  }
+	},
+	{
+	  "name": "urlexternaldoc",
+	  "data": null
+	},
+	{
+	  "name": "externaldoctype",
+	  "data": {
+		"stringValue": ""
+	  }
+	},
+	{
+	  "name": "urlexternaldocxml",
+	  "data": null
+	},
+	{
+	  "name": "fw_uid",
+	  "data": {
+		"stringValue": "bfad2cb7-8153-43a6-8443-e52e300bf485"
+	  }
+	},
+	{
+	  "name": "id",
+	  "data": {
+		"longValue": 1460376624353
+	  }
+	},
+	{
+	  "name": "SegRating",
+	  "data": null
+	},
+	{
+	  "name": "fwtags",
+	  "data": null
+	},
+	{
+	  "name": "Webreference",
+	  "data": null
+	},
+	{
+	  "name": "flextemplateid",
+	  "data": {
+		"stringValue": "ContentDef:1460376373058"
+	  }
+	},
+	{
+	  "name": "Relationships",
+	  "data": null
+	},
+	{
+	  "name": "Permalink",
+	  "data": {
+		"stringValue": "10-fabulous-kitchens"
+	  }
+	},
+	{
+	  "name": "Title",
+	  "data": {
+		"stringValue": "10 Fabulous Kitchens"
+	  }
+	},
+	{
+	  "name": "MetaTitle",
+	  "data": {
+		"stringValue": "Fabulous Celebrity Kitchens | Home Decor | Home Matters"
+	  }
+	},
+	{
+	  "name": "Author",
+	  "data": null
+	},
+	{
+	  "name": "ContentBody",
+	  "data": {
+		"stringValue": "<div class=\"lead\">Go big or go home.&nbsp;If you have the space, nothing says culinary luxury like a huge kitchen. Check out these&nbsp;show-stopping celebrity kitchen wonders and get ideas on how to take yours to the next level.&nbsp;</div>\n\n<p><strong>Ferris Buehler&rsquo;s Big Kitchen Island</strong></p>\n\n<p><img alt=\"\" src=\"https://wcsmprod-pub.terminix.com/cs/ahs/image/sarah-jessica-parker-matthew-broderick.jpg\" style=\"height:400px; width:600px\" /></p>\n\n<p>Sarah Jessica Parker and Matthew Broderick&rsquo;s Greenwich Village investment home recently sold for the bargain basement sum of&nbsp;$19.95&nbsp;million.&nbsp;We have to believe it was, in no small part, because of this amazing kitchen island.&nbsp;Modern, sleek and airy defines&nbsp;everything&nbsp;from the&nbsp;two-toned&nbsp;countertop to minimalist sink fixtures.</p>\n\n<p><strong>A Kitchen Fit For&nbsp;a Chef&nbsp;</strong></p>\n\n<p><img alt=\"\" src=\" https://wcsmprod-pub.terminix.com/cs/ahs/image/fnm-060109_star-kitchen-ina-garten_s4x3.jpg.rend.snigalleryslide.jpeg\" style=\"height:450px; width:600px\" /></p>\n\n<p>The Barefoot Contessa, Ina Garten, knows a thing or two about kitchens&nbsp;&ndash;&nbsp;after all, she made her name in one.&nbsp;This&nbsp;one boasts a huge island with plenty of counter space and airy cabinets to show off the impressive collection of dishes. Let&#39;s not forget to mention the unique accent of table lamps instead of overhead lighting, making this design stand apart from the rest.</p>\n\n<p><strong>The Outdoor Experience&nbsp;</strong></p>\n\n<p><img alt=\"\" src=\" https://wcsmprod-pub.terminix.com/cs/ahs/image/fnm-060112_jose-garces-outdoor-star-kitchen_s4x3.jpg.rend.snigalleryslide.jpeg\" style=\"height:450px; width:600px\" /></p>\n\n<p>When the kitchen is your social space,&nbsp;why not put it in the place everyone wants&nbsp;it&nbsp;to be? That&rsquo;s what Jose Garces did with this jaw-dropping outdoor kitchen.&nbsp;Although it&#39;s located outside, it still has all of the appliances that you&#39;d expect to see in a normal kitchen. It even has herb boxes within easy reach. To top it all off, it features a canning station that will get your garden fresh veggies ready for winter.</p>\n\n<p><strong>The Bachelor Pad Kitchen</strong></p>\n\n<p><img alt=\"\" src=\"https://wcsmprod-pub.terminix.com/cs/ahs/image/jake_gyllenhaal.jpg\" style=\"height:450px; width:600px\" />Jake Gyllenhaal&rsquo;s kitchen has everything a guy could want. In this case that&rsquo;s plenty of style in a fairly simple setup with subway tile backsplashes, grey cabinets and minimalist appliances.</p>\n\n<p><strong>Do the Funky Kitchen</strong></p>\n\n<p><img alt=\"\" src=\"https://wcsmprod-pub.terminix.com/cs/ahs/image/zosia_mamet.jpg\" style=\"height:450px; width:600px\" /></p>\n\n<p>Girls star Zosia Mamet&rsquo;s kitchen takes a turn towards eclectic to make the most&nbsp;of her brownstone&#39;s space. With a makeshift island, some fun rugs and a nice print on the wall, an otherwise old fashioned kitchen is now Brooklyn funky.</p>\n\n<p><strong>Mission&nbsp;Style&nbsp;Kitchen</strong></p>\n\n<p><img alt=\"\" src=\"https://wcsmprod-pub.terminix.com/cs/ahs/image/annie_potts.jpg\" style=\"height:399px; width:600px\" /></p>\n\n<p>Annie Potts mission? A great, southwest-inspired kitchen.&nbsp;With&nbsp;turquoise blue tile and&nbsp;exposed wooden beams, her kitchen has a&nbsp;modern take on the mission style heritage of her Southern California home.</p>\n\n<p><strong>McDreamy&rsquo;s Modern Kitchen</strong></p>\n\n<p><img alt=\"\" src=\"https://wcsmprod-pub.terminix.com/cs/ahs/image/patrick_dempsey.jpg\" style=\"height:400px; width:600px\" /></p>\n\n<p>Concrete floors&nbsp;and plywood cabinetry make&nbsp;this kitchen a modern style standout. Just add in bright orange chairs and&nbsp;tear drop light fixtures&nbsp;and you&rsquo;ve got a gallery worthy space for eating.</p>\n\n<p><strong>Kitchen Worthy of a Queen</strong></p>\n\n<p><img alt=\"\" src=\"https://wcsmprod-pub.terminix.com/cs/ahs/image/martha_stewart.jpg\" style=\"height:800px; width:600px\" /></p>\n\n<p>The queen of domesticity&nbsp;&ndash;&nbsp;you guessed it, Martha Stewart,&nbsp;kept this&nbsp;kitchen&nbsp;largely intact&nbsp;when she bought it from the Ford family. She kept nearly all of the family&#39;s original items, from the silver, china, and linens to the vintage refrigerators.&nbsp;</p>\n\n<p><strong>The Kitchen of an American Icon</strong></p>\n\n<p><img alt=\"\" src=\"https://wcsmprod-pub.terminix.com/cs/ahs/image/julia_child.jpg\" style=\"height:450px; width:600px\" /></p>\n\n<p>If Julia Child&rsquo;s passion for cooking wasn&rsquo;t clear,&nbsp;this kitchen laid it bare. With pots, pans and utensils decking out every wall,this kitchen is the chef&rsquo;s version of the mechanic&rsquo;s garage. It may not be fancy, but one look at it&nbsp;and every dinner guest knows that anything is possible.</p>\n\n<p><strong>Designed&nbsp;to Impress</strong></p>\n\n<p><img alt=\"\" src=\"https://wcsmprod-pub.terminix.com/cs/ahs/image/naomi_watts.jpg\" style=\"height:450px; width:600px\" />The kitchen of this Hollywood power couple is impressive to say the least.&nbsp; The statement starts with retro black and white tile floors. There&rsquo;s also a breakfast nook, opaque glass cabinets and globe lighting for the island. It all amounts to an impressive take on the traditional kitchen.</p>\n"
+	  }
+	},
+	{
+	  "name": "DateOfPublication",
+	  "data": {
+		"dateValue": "2016-07-07T05:03:05.000Z"
+	  }
+	},
+	{
+	  "name": "MetaDescription",
+	  "data": {
+		"stringValue": "Find out how celebrities dine & wine in these 10 fabulous kitchens. Take a look inside these celebrity kitchens and get inspiration for your Home Decor. "
+	  }
+	},
+	{
+	  "name": "PreviewTitle",
+	  "data": {
+		"stringValue": "10 Fabulous Kitchens"
+	  }
+	},
+	{
+	  "name": "PreviewExcerpt",
+	  "data": {
+		"stringValue": "Go big or go home. If you have the space, nothing says culinary luxury like a huge kitchen. Check out these show-stopping celebrity kitchen wonders and get ideas on how to take yours to the next level. "
+	  }
+	},
+	{
+	  "name": "FeaturedImage",
+	  "data": {
+		"blobValue": {
+		  "filename": "742/479/THUMBNAIL_3_KITCHEN_200420255-001_6.jpg",
+		  "foldername": "/apps/Oracle/Webcenter/Shared/ccurl/",
+		  "filedata": "",
+		  "href": "http://192.168.1.39:7003/cs/BlobServer?blobkey=id&blobnocache=true&blobwhere=1460377463367&blobheadername3=MDT-Type&blobheadername2=Content-Disposition&blobheadername1=Content-Type&blobheadervalue3=abinary%3B+charset%3DUTF-8&blobheadervalue2=attachment%3B+filename%3D%22THUMBNAIL_3_KITCHEN_200420255-001_6.jpg%22%3Bfilename*%3DUTF-8%27%27THUMBNAIL_3_KITCHEN_200420255-001_6.jpg&blobheadervalue1=image%2Fjpeg&blobcol=urldata&blobtable=MungoBlobs",
+		  "webreferences": [
+			{
+			  "url": "10-fabulous-kitchens/thumbnail_3_kitchen_200420255-001_6.jpg",
+			  "webroot": "AHSWebRoot",
+			  "redirecturl": "",
+			  "template": "",
+			  "wrapper": "",
+			  "autogenerated": true,
+			  "default": false,
+			  "httpstatus": 200,
+			  "createddate": "2017-01-30T06:12:30.215Z",
+			  "modifiedate": "2017-01-30T06:12:30.215Z",
+			  "dgroup": "",
+			  "params": "filename=THUMBNAIL_3_KITCHEN_200420255-001_6.jpg",
+			  "redirectwebroot": ""
+			}
+		  ]
+		}
+	  }
+	},
+	{
+	  "name": "FeaturedImageAlt",
+	  "data": null
+	},
+	{
+	  "name": "FeaturedImageTitle",
+	  "data": null
+	},
+	{
+	  "name": "OverridePreview",
+	  "data": {
+		"stringValue": "False"
+	  }
+	},
+	{
+	  "name": "DisplayFlag",
+	  "data": {
+		"stringValue": "True"
+	  }
+	},
+	{
+	  "name": "renderid",
+	  "data": null
+	}
+  ],
+  "associations": {
+	"href": "http://192.168.1.39:7003/cs/REST/sites/AHS/types/AHSArticle/assets/1460376624353/associations"
+  },
+  "parent": [
+	{
+	  "parentDefName": "Category",
+	  "asset": [
+		"ContentCategory:1460376374025"
+	  ]
+	},
+	{
+	  "parentDefName": "Keywords",
+	  "asset": [
+		"ContentCategory:1460376383654",
+		"ContentCategory:1460376382513",
+		"ContentCategory:1460376386329",
+		"ContentCategory:1460376375514"
+	  ]
+	},
+	{
+	  "parentDefName": "Tags",
+	  "asset": [
+		"ContentCategory:1460376374168",
+		"ContentCategory:1460376373627",
+		"ContentCategory:1460376375908",
+		"ContentCategory:1460376373770"
+	  ]
+	}
+  ]
+}

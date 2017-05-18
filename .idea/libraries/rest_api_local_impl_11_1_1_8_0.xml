@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="rest-api-local-impl-11.1.1.8.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/rest-api-local-impl-11.1.1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wem-sso-api-cas-11.1.1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wem-sso-api-cas-plugin-cs-11.1.1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wem-sso-api-oam-11.1.1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
