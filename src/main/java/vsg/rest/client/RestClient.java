@@ -18,7 +18,6 @@ public class RestClient {
 	private String baseUri;
 	private String multiticket;
 	private WebResource webResource;
-	private boolean connected = false;
 	private String username;
 	private String password;
 
