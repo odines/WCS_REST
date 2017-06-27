@@ -6,6 +6,8 @@ import com.fatwire.rest.beans.Blob;
 import com.sun.jersey.api.client.ClientResponse;
 import vsg.rest.client.RestClient;
 import vsg.rest.exception.SSOCustomException;
+import vsg.rest.manager.AssetTypes;
+import vsg.rest.manager.RestManager;
 
 import java.util.List;
 
@@ -20,6 +22,18 @@ public class RESTRunner {
 
 
 		RestClient client = new RestClient(WCS_BASE_URI, WCS_USER, WCS_PASSWORD);
+		RestManager manager = new RestManager(client);
+
+		manager.lookupSites();
+		manager.lookupAssetsByType(AssetTypes.AHS_VIDEO);
+		manager.lookupAssetById("1460376373667", AssetTypes.AHS_ARTICLE);
+
+
+
+		manager.lookupAssetsByType(AssetTypes.AHS_ARTICLE);
+
+
+
 		ClientResponse responseOneAsset = client.get("/sites/FurnitureMedic/types/FMImage/assets/1460377889783");
 		if (responseOneAsset.getStatus() == HTTP_STATUS_200) {
 			AssetBean article = responseOneAsset.getEntity(AssetBean.class);

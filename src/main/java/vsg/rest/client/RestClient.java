@@ -27,7 +27,6 @@ public class RestClient {
 		this.username = username;
 		this.password = password;
 		this.webResource = client.resource(baseUri + "REST/");
-		authenticate();
 	}
 
 	public void authenticate() throws SSOCustomException {
@@ -115,5 +114,4 @@ public class RestClient {
 		}
 		return path;
 	}
-
 }
