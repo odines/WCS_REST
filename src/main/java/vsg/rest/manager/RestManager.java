@@ -60,7 +60,7 @@ public class RestManager {
 				url = "/sites/AHS/types/AHSVideo/assets/";
 				break;
 			default:
-				throw new AssertionError("Unknow Asset Type");
+				throw new AssertionError("Unknown Asset Type");
 		}
 		if (StringUtils.isNotBlank(url)) {
 			url += assetId;
